@@ -25,3 +25,5 @@ lint.xml
 .venv/
 test-results/*.xml
 testing.xlsx
+
+uv.lock
